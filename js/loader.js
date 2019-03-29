@@ -1,7 +1,7 @@
 window.$j = jQuery.noConflict();
 
 var scripts = [
-    "http://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+    "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
     "./node_modules/three/build/three.js",
     "./node_modules/promise-polyfill/dist/polyfill.js",
     "./depend/static/uevent.js",
