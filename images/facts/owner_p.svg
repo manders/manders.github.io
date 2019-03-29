@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="32px" height="32px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="icon_Name">
+</g>
+<g id="guides" display="none">
+	<g display="inline">
+		<g>
+			<path fill="#E0E0E0" d="M27,5v22H5V5H27 M28,4H4v24h24V4L28,4z"/>
+		</g>
+		<g>
+			<rect fill="none" width="32" height="32"/>
+		</g>
+	</g>
+</g>
+<g id="icons">
+	<g>
+		<circle fill="#6DB5E3" cx="12.5" cy="16.5" r="1.75"/>
+		<circle fill="#6DB5E3" cx="19.5" cy="23.5" r="1.75"/>
+		<path fill="#6DB5E3" d="M16,2l-5,5.0581055V4H7v6.7553711L3,15h1v14h24V15h1L16,2z M12.5,14c1.3787231,0,2.5,1.1212769,2.5,2.5
+			S13.8787231,19,12.5,19S10,17.8787231,10,16.5S11.1212769,14,12.5,14z M19.5,26c-1.3787231,0-2.5-1.1212769-2.5-2.5
+			s1.1212769-2.5,2.5-2.5s2.5,1.1212769,2.5,2.5S20.8787231,26,19.5,26z M10.3535156,26.6362305l-0.9897461-0.9897461
+			l12.2827148-12.2827148l0.9897461,0.9897461L10.3535156,26.6362305z"/>
+	</g>
+</g>
+</svg>
